@@ -10,3 +10,7 @@ Task 4 - Regex
 
 Task 5 - Numpy and Pandas
 
+
+Task 6 - Matplotlib
+
+
