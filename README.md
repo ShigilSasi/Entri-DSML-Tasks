@@ -15,3 +15,6 @@ Task 6 - Matplotlib
 
 
 IRIS DATASET FOR LEARNING
+
+
+Simple Linear regression using salary dataset
