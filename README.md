@@ -18,3 +18,6 @@ IRIS DATASET FOR LEARNING
 
 
 Simple Linear regression using salary dataset
+
+
+Logistic regression using diabeties dataset
