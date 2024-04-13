@@ -21,3 +21,6 @@ Simple Linear regression using salary dataset
 
 
 Logistic regression using diabeties dataset
+
+
+Machine learning Regression Task Using Insurance data
