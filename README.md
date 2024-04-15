@@ -24,3 +24,6 @@ Logistic regression using diabeties dataset
 
 
 Machine learning Regression Task Using Insurance data
+
+
+Machine Learning Classfication Task Using Drugs data
