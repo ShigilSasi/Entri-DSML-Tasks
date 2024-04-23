@@ -34,3 +34,5 @@ Simple decision tree using mushroom dataset
 
 Simple random forest using email dataset
 
+
+Simple K Nearest Neighbour using email dataset
