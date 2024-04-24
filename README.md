@@ -36,3 +36,6 @@ Simple random forest using email dataset
 
 
 Simple K Nearest Neighbour using email dataset
+
+
+Simple SVM using email dataset
