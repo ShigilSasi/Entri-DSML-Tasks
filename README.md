@@ -39,3 +39,6 @@ Simple K Nearest Neighbour using email dataset
 
 
 Simple SVM using email dataset
+
+
+Simple Naive Bayes using email dataset
