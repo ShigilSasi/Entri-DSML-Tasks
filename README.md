@@ -42,3 +42,5 @@ Simple SVM using email dataset
 
 
 Simple Naive Bayes using email dataset
+
+CNN assignment using fashion minst dataset
